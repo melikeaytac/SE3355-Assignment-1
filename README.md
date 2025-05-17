@@ -4,25 +4,25 @@ An e-commerce website built with Next.js 14, styled using React-Bootstrap, and s
 
 🚀 Features
 
-Responsive Navbar with search bar, cart preview, and dropdown menus
+Responsive Navbar with search bar, cart preview, and dropdown menus. 
 
-Sticky header with colorful accent line for navigation feedback
+Sticky header with colorful accent line for navigation feedback. 
 
-Mobile-first design, including hamburger menu and dropdown compatibility
+Mobile-first design, including hamburger menu and dropdown compatibility. 
 
-"Elektronik Fırsatlar" section with auto-rotating product cards and external links
+"Elektronik Fırsatlar" section with auto-rotating product cards and external links. 
 
-"Sana Özel Öneriler" section dynamically loaded from API
+"Sana Özel Öneriler" section dynamically loaded from API. 
 
-Campaigns section with visually rich badges and categories
+Campaigns section with visually rich badges and categories. 
 
-Cart system powered by Redux Toolkit (with "Add to Cart" + item counter)
+Cart system powered by Redux Toolkit (with "Add to Cart" + item counter). 
 
-Cart preview on hover, styled with Bootstrap Popover
+Cart preview on hover, styled with Bootstrap Popover. 
 
-Animated effects on hover: cards scale, dropdowns slide
+Animated effects on hover: cards scale, dropdowns slide. 
 
-Local SQLite database simulated through route API endpoints (/api/xxx)
+Local SQLite database simulated through route API endpoints (/api/xxx). 
 
 
 
